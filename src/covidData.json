@@ -1,0 +1,94 @@
+{
+  "country": "India",
+  "totalCases": 45000000,
+  "activeCases": 1000000,
+  "recovered": 44000000,
+  "deaths": 300000,
+  "stateData": [
+    {
+      "state": "Maharashtra",
+      "totalCases": 600000,
+      "activeCases": 250000,
+      "recovered": 9700000,
+      "deaths": 560000,
+      "lat": 19.6633,
+      "lng": 75.3206,
+      "timeSeriesData": [
+        { "date": "2024-01-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-02-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-03-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-04-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-05-01", "totalCases": 980000, "activeCases": 550000, "recovered": 340000, "deaths": 50000 },
+        { "date": "2024-06-01", "totalCases": 870000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 }
+      ]
+    },
+    {
+      "state": "Kerala",
+      "totalCases": 780000,
+      "activeCases": 250000,
+      "recovered": 9700000,
+      "deaths": 780000,
+      "lat": 10.8505,
+      "lng": 76.2711,
+      "timeSeriesData": [
+        { "date": "2024-01-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-02-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-03-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-04-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-05-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-06-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 }
+      ]
+    },
+    {
+      "state": "Goa",
+      "totalCases": 694567,
+      "activeCases": 250000,
+      "recovered": 9700000,
+      "deaths": 560000,
+      "lat": 15.2993,
+      "lng": 74.1240,
+      "timeSeriesData": [
+        { "date": "2024-01-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-02-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-03-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-04-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-05-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-06-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 }
+      ]
+    },
+    {
+      "state": "Tamil Nadu",
+      "totalCases": 694567,
+      "activeCases": 250000,
+      "recovered": 9700000,
+      "deaths": 560000,
+      "lat":   11.12712250,
+      "lng": 78.65689420,
+      "timeSeriesData": [
+        { "date": "2024-01-01", "totalCases": 650000, "activeCases": 540000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-02-01", "totalCases": 860000, "activeCases": 270000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-03-01", "totalCases": 320000, "activeCases": 980000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-04-01", "totalCases": 540000, "activeCases": 870000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-05-01", "totalCases": 390000, "activeCases": 980000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-06-01", "totalCases": 550000, "activeCases": 870000, "recovered": 420000, "deaths": 12000 }
+      ]
+    },
+    {
+      "state": "Karnataka",
+      "totalCases": 694567,
+      "activeCases": 250000,
+      "recovered": 9700000,
+      "deaths": 560000,
+      "lat":   15.31727750,
+      "lng": 75.71388840,
+      "timeSeriesData": [
+        { "date": "2024-01-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-02-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-03-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-04-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 },
+        { "date": "2024-05-01", "totalCases": 500000, "activeCases": 200000, "recovered": 400000, "deaths": 10000 },
+        { "date": "2024-06-01", "totalCases": 550000, "activeCases": 220000, "recovered": 420000, "deaths": 12000 }
+      ]
+    }
+  ]
+}
